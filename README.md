@@ -1,0 +1,1 @@
+Projeto simples de um Sistema de cidade em Java que foi resultado de 4 diagramas criado no programa "Astah". Programa principal "SistemaCidade.java" que chama seus dependentes que estão nos outros packages.
